@@ -49,6 +49,7 @@ class BountyViewController: UIViewController, UITableViewDataSource, UITableView
     // UITableViewDelegate
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
         print("--> \(indexPath.row)")
+        //연결한 segue웨이를 수행하라는 코드 여러개의 세그웨이가 있을수 있어서 구분자 showDetail사용
         performSegue(withIdentifier: "showDetail", sender: nil)
     }
     
