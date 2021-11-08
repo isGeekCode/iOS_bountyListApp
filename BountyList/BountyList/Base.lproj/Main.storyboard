@@ -82,7 +82,7 @@
                         </constraints>
                     </view>
                     <connections>
-                        <segue destination="fg7-1T-5iy" kind="presentation" identifier="showDetail" id="D0I-gb-6nA"/>
+                        <segue destination="fg7-1T-5iy" kind="presentation" identifier="showDetail" modalPresentationStyle="automatic" modalTransitionStyle="coverVertical" id="D0I-gb-6nA"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
