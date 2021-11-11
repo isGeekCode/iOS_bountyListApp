@@ -24,7 +24,7 @@
 
 ### **완성한 영상**
 
-<iframe src="https://play-tv.kakao.com/embed/player/cliplink/423790965?service=daum_tistory" width="500" height="442" frameborder="0" allowfullscreen="true"></iframe>
+https://play-tv.kakao.com/embed/player/cliplink/423790965?service=daum_tistory
 
 ### **피드백**
 
@@ -50,12 +50,5 @@
 
 \- MVVM, MVP, MVC, VIPER 등등 다양함 -> 하나씩 장단점을 파악해보고 적용해볼 것
 
-참고 : [https://chetan-aggarwal.medium.com/ios-design-patterns-f478abd78132](https://chetan-aggarwal.medium.com/ios-design-patterns-f478abd78132)
-
- [iOS : Design Patterns
-
-Design patterns are reusable solutions to common problems in software design. They’re templates designed to help you write code that’s easy…
-
-chetan-aggarwal.medium.com](https://chetan-aggarwal.medium.com/ios-design-patterns-f478abd78132)
-
-[##_Image|kage@29FMF/btrkqsJo4PZ/mpL3RsK5dKza1b2OXNIAi0/img.jpg|CDM|1.3|{"originWidth":5418,"originHeight":3612,"style":"alignCenter","width":500,"height":333,"filename":"charles-deluvio-Lks7vei-eAg-unsplash.jpg"}_##]
+참고 : 
+iOS : Design Patterns - [https://chetan-aggarwal.medium.com/ios-design-patterns-f478abd78132]
